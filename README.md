@@ -4,14 +4,15 @@ Governance and policymaking function like a living ecosystem: starting from smal
 ________________________________________
 
 ## 1. Ecosystem Metaphor
-+ Seeds → Initial ideas / backlog items (policy cards, proposals, amendments).  
-+ Sprouts → Prioritized Seeds chosen for a cycle (becoming Initiatives).  
-+ Plants → Proposals that grow into Policies after refinement and collective input.  
-+ Trees → Fully implemented Policies (equivalent to Epics delivered and made law).  
-+ Roots → Value streams (tax streams, budgets, resources).  
-+ Watering → Lean, crowdsourced allocation of budgets to initiatives (participatory budgeting).  
-+ Harvest → Review of value delivered (policies implemented, outcomes measured).  
-+ Composting → Lessons from failed or expired policies are recycled into new Seeds.  
++ Seeds - Initial ideas / backlog items (policy cards, proposals, amendments).  
++ Sprouts - Prioritized Seeds chosen for a cycle (becoming Initiatives).  
++ Plants - Proposals that grow into Policies after refinement and collective input.  
++ Trees - Fully implemented Policies (equivalent to Epics delivered and made law).  
++ Roots - Value streams (tax streams, budgets, resources).  
++ Watering - Lean, crowdsourced allocation of budgets to initiatives (participatory budgeting).  
++ Harvest - Review of value delivered (policies implemented, outcomes measured).  
++ Composting - Lessons from failed or expired policies are recycled into new Seeds.
++ Plagues & Pests - Risks and Blockers that may prevent growth or even stunt Seeds and Initiatives.  
 
 ## 2. Ceremonies (Cycles of Growth)
 
@@ -85,68 +86,69 @@ Each artifact is both conceptual (intent) and practical (criteria).
 
 
 ## 4. Roles in a Self-Organized Citizen Framework
-+ Citizens (Seed Voices):  
-  - Core stakeholders, because taxpayers = funders.  
-  - Every citizen can submit Seeds, endorse, and vote.  
-+ Stewards (Facilitators):  
-  - Ensure fairness, manage cycles, prevent gaming of the process.  
-  - Elected or rotating, but with limited scope (no decision power, just facilitation).  
-+ Pollinators (Connectors):  
-  - Individuals or groups who move ideas between Seeds → Plants → Forests.  
-  - Prevent siloing and help small Seeds find broader application.  
-+ Guardians (Principle Keepers):  
-  - Ensure Seeds/Initiatives align with Network Democracy principles (equality, ecology, transparency, justice).  
-  - Could function like an “ethics review board,” but distributed and rotating.  
-+ Treasurers (Budget Stewards):  
-  - Manage Roots + Watering process transparently.  
-  - Rotate regularly to prevent corruption.  
-+ Forest Keepers (Meta-Councils):  
-  - Coordinate Trees (Policies) at the macro level.  
-  - Serve as alignment roles, not top-down rulers.  
+### Citizens (Seed Voices):  
+  + Core stakeholders, because taxpayers are the funders.  
+  + Every citizen can submit Seeds, endorse, and vote.  
+### Stewards (Facilitators):  
+  + Ensure fairness, manage cycles, prevent gaming of the process.  
+  + Elected or rotating, but with limited scope (no decision power, just facilitators).  
+### Pollinators (Connectors):  
+  + Individuals or groups who move ideas between Seeds → Plants → Forests.  
+  + They prevent siloing and help small Seeds find broader application.  
+### Guardians (Principle Keepers):  
+  + They ensure Seeds/Initiatives align with Network Democracy principles (equality, ecology, transparency, justice).  
+  + May function like an “ethics review board,” but distributed and rotating.  
+### Gardeners (Budget Stewards):  
+  + They Manage Roots and the Watering process transparently.
+  + Should rotate regularly to prevent corruption.  
+### Forest Keepers (Meta-Councils):  
+  + They coordinate Trees (Policies) at the macro level.  
+  + They serve as alignment roles, not top-down rulers.  
 
 ## 5. Principle of Stability vs. Agility
 + Policies (Trees) are stable artifacts — once voted into law, they create certainty and trust.  
-+ Iteration happens at the Seed → Plant → Tree pipeline, not by endlessly rewriting laws after they’re enacted.  
-+ Amendments allow safe adaptation without destabilizing the entire system.  
-+ This balances fast feedback cycles with the need for stability in governance.  
++ Iteration happens at the Seed → Plant → Tree pipeline, not by endlessly rewriting laws after they have been enacted.  
++ Amendments allow safe adaptation without destabilizing the entire system, balancing fast feedback cycles with the need for stability in policymaking.  
 
 
 ## 6. Scaling Model
-+ Seed Level: Small teams test ideas.  
-+ Plant Level: Initiatives scale, get cross-community buy-in, align with shared priorities.  
-+ Forest Level: Large-scale policies ratified, coordinated across regions/nations.  
-+ Roles-of-roles (Pollinators, Keepers) prevent centralization but allow scaling.  
++ Seed Level: Small teams create and test ideas.  
++ Plant Level: When Initiatives scale up, they get cross-community buy-in and align with shared priorities.  
++ Forest Level: Large-scale policies get ratified and coordinated across larger communities or regions.  
++ Roles-of-roles (Pollinators, Keepers) prevent centralization, allowing alignment and scaling.  
 
 
 ## 7. Cycles in Demoretia
 
-### 1. Micro-Cycles (Seed Sprints)
+### 1. Micro-Cycles (Seeding Period)
   + Length: 2–6 weeks.  
-  + Purpose: Develop, refine, and test Seeds/Initiatives at the Seed level (local groups).  
-  + Output: A refined Proposal or Amendment ready for “Voting Round 1.”  
+  + Purpose: To Develop, refine, crowdsource, and test Seeds/Proposals at the Seed level (local groups).  
+  + Output: A refined Proposal or Amendment ready for “Voting Round 1.” 
 ### 2. Meso-Cycles (Plant Seasons)
   + Length: 3–6 months.  
   + Purpose: Communities (Plants) align their Seeds, prioritize Initiatives, assign budgets (Watering), and vote them forward.  
-  + Output: Approved Initiatives moving toward Policy drafting.  
+  + Output: Approved tested Initiatives moving toward Policy drafting.  
 ### 3. Macro-Cycles (Forest Cycles)
   + Length: 1 year.  
   + Purpose: National/Forest-level aggregation, cross-regional alignment, and ratification of Policies (Trees) into law.  
   + Output: Policies enacted, budgets allocated, measurable goals defined.  
 ### 4. Super-Cycle (Generational Review)
   + Length: 4–5 years.  
-  + Purpose: Major review of Trees (Policies) for relevance, sustainability, ecological impact, and fairness. Outdated or harmful Trees move to Composting.  
+  + Purpose: Major review of Trees (Policies) for relevance, sustainability, ecological impact, and fairness.
+  + Outdated or harmful Trees move to Composting.  
 
 ## 8. Voting Cadence
 
 ### 1. Micro-Voting (Asynchronous / Continuous):
-  + For Seeds → lightweight endorsement (likes, small votes, participatory polling).  
-  + Citizens can “upvote” Seeds anytime (as in open source or DAOs).  
+  + For Seeds, lightweight endorsement happen anytime (likes, small votes, participatory polling).  
+  + Seed voices (Citizens) can water (crowdsource) Seeds anytime, helping them grow and iterate.
+  + The more endorsements, the esier to test and implement at the Seed level (locally).  
 ### 2. Meso-Voting (Seasonal: 3–6 months):
-  + For Initiatives → formal selection rounds.  
-  + Citizens prioritize which Initiatives move forward to become Policies.  
+  + For Plants (Initiatives), a formal selection round happens here. These are mature Plants tested and endorsed.  
+  + Citizens prioritize which Initiatives may move forward to become Policies. Plagues and Pests are identified.  
 ### 3. Macro-Voting (Annual / Forest cycle):
-  + For Policies (Trees) → final ratification into law or charter.  
-  + Requires larger quorum, higher thresholds, and stable legitimacy.  
+  + For Trees (Policies), a final ratification into law or charter happens here.  
+  + Requires larger quorum, higher thresholds, and stable legitimacy. Usually a Forest Keeper who endorsed (or created) owns them.  
 ### 4. Emergency Voting (On-Demand):
   + A separate fast-track mechanism (e.g., if an earthquake strikes).  
   + Citizens vote asynchronously with rapid quorum rules.  
