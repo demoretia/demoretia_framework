@@ -21,8 +21,9 @@ ________________________________________
   + These live in an open backlog, visible to all.  
 ### 2.	Watering (Budget Allocation)
   + Seeds are evaluated for feasibility and assigned lean, crowdsourced budgets.  
-  + Allocation comes from **Roots** (transparent tax/value streams).  
-  + This ensures resources are tied directly to proposals from the start.  
+  + Allocation comes from **Roots** (transparent tax/value streams).
+  + Crowdsourcing asynchronously may also Water Seeds
+  + This step ensures resources are tied directly to proposals from the start.  
 ### 3.	Sprouting (Prioritization & Selection)
   + Seeds are refined into Proposals/Initiatives.  
   + Communities vote or agree on which initiatives to **plant** in the next cycle.  
