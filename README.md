@@ -3,7 +3,7 @@
 Governance and policymaking function like a living ecosystem: starting from small seeds (local groups), growing into plants (community networks), and scaling into forests (regional/national/global). Roles are fluid, cycles are iterative, streams are fully transparent, and value delivery is incremental.
 ________________________________________
 
-1. Ecosystem Metaphor
+## 1. Ecosystem Metaphor
 •	Seeds → Initial ideas / backlog items (policy cards, proposals, amendments).
 •	Sprouts → Prioritized Seeds chosen for a cycle (becoming Initiatives).
 •	Plants → Proposals that grow into Policies after refinement and collective input.
