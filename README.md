@@ -1,6 +1,8 @@
 # Demoretia Framework (MVP)
 
-Governance and policymaking function like a living ecosystem: starting from small seeds (local groups), growing into plants (community networks), and scaling into forests (regional/national/global). Roles are fluid, cycles are iterative, streams are fully transparent, and value delivery is incremental.
+<img width="697" height="781" alt="new-demoretia2" src="https://github.com/user-attachments/assets/39747d10-80d0-470a-b547-123110d13473" />
+
+An alternative governance and policymaking function, like a living ecosystem: starting from small seeds (local groups), growing into plants (community networks), and scaling into forests (regional/national/global). Roles are fluid, cycles are iterative, streams are fully transparent, and value delivery is incremental.
 ________________________________________
 
 ## 1. Ecosystem Metaphor
